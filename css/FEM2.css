@@ -39,6 +39,7 @@ body {
     }
     .card {
         height: 450px;
+        margin-bottom: 14px;
     }
 }
 .container .image img {
