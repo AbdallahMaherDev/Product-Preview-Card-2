@@ -24,7 +24,7 @@ Open index.html in your browser to view the component.
 
 🎨 Preview
 
-Live Demo (https://velvety-kataifi-a399ba.netlify.app/](https://incandescent-pavlova-6b97c6.netlify.app/)
+Live Demo (https://incandescent-pavlova-6b97c6.netlify.app/](https://incandescent-pavlova-6b97c6.netlify.app/)
 
 📬 Contact
 
