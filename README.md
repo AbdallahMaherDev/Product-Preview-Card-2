@@ -2,9 +2,7 @@ Frontend Mentor - Product Preview Card
 
 🌟 Introduction
 
-Hello! I'm Abdallah Maher, and this is a solution to the "Results Summary Component" challenge from Frontend Mentor. This project is a simple yet elegant component that displays a user's test results in a visually appealing way.
-
-🚀 Features
+Hello! I'm Abdallah Maher, and this is a solution to the "Results Summary Component" challenge from Frontend Mentor. This project is a simple.
 
 Responsive and accessible design
 
@@ -14,11 +12,10 @@ Dynamic score representation
 
 🛠 Technologies Used
 
-HTML5
+HTML
 
-CSS3 (Flexbox & Grid for layout)
+CSS3 (Flexbox)
 
-git clone (https://github.com/AbdallahMaherDev/Product-Preview-Card-2)
 
 Open index.html in your browser to view the component.
 
