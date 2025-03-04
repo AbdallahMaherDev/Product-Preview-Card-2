@@ -1,6 +1,9 @@
-#Frontend Mentor - Product Preview Card
+# Frontend Mentor - Product Preview Card
+
+
 🌟 Introduction
 Hello! I'm Abdallah Maher, and this is my solution to the Product Preview Card Component challenge from Frontend Mentor. This project focuses on creating a clean, modern, and responsive product preview card.
+
 
 ✨ Features:
 ✅ Fully responsive design
@@ -10,6 +13,8 @@ Hello! I'm Abdallah Maher, and this is my solution to the Product Preview Card C
 🛠 Technologies Used
 HTML5
 CSS3 (Flexbox for layout)
+
+
 🚀 How to View the Project
 Simply open index.html in your browser to check out the component.
 
