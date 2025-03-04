@@ -1,34 +1,24 @@
-Frontend Mentor - Product Preview Card
-
+#Frontend Mentor - Product Preview Card
 🌟 Introduction
+Hello! I'm Abdallah Maher, and this is my solution to the Product Preview Card Component challenge from Frontend Mentor. This project focuses on creating a clean, modern, and responsive product preview card.
 
-Hello! I'm Abdallah Maher, and this is a solution to the "Results Summary Component" challenge from Frontend Mentor. This project is a simple.
-
-Responsive and accessible design
-
-Well-structured HTML & CSS
-
-Dynamic score representation
+✨ Features:
+✅ Fully responsive design
+✅ Well-structured and semantic HTML & CSS
+✅ Modern and accessible UI
 
 🛠 Technologies Used
+HTML5
+CSS3 (Flexbox for layout)
+🚀 How to View the Project
+Simply open index.html in your browser to check out the component.
 
-HTML
-
-CSS3 (Flexbox)
-
-
-Open index.html in your browser to view the component.
-
-🎨 Preview
-
+🎨 Live Preview
 Live Demo [(https://incandescent-pavlova-6b97c6.netlify.app/](https://incandescent-pavlova-6b97c6.netlify.app/)]
 
 📬 Contact
-
 If you have any feedback or suggestions, feel free to connect with me!
 
 Made with ❤️ by Abdallah Maher
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
-
-
